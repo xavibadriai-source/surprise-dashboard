@@ -1,1 +1,0 @@
-@tailwind base;@tailwind components;@tailwind utilities;@layer base{body{@apply bg-slds-gray-1 text-slds-text font-sans;}}@layer components{.slds-card{@apply bg-white border border-slds-gray-2 rounded-md shadow-sm overflow-hidden;}.slds-card-header{@apply px-4 py-3 border-b border-slds-gray-2 flex items-center justify-between bg-slds-gray-1/50;}.slds-card-body{@apply p-4;}}
